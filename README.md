@@ -1,8 +1,9 @@
-## Google-Lite Clone with Tailwind CSS & NEXT.JS! (Responsive, SSR React, Pagination) -- Tutorial with Sonny Sangha
+## Google-Lite Clone with Tailwind CSS & NEXT.JS! (Responsive, SSR React, Pagination) 
 
-https://youtu.be/24xpTmaPOdY
 
-made by AKshay Sharma
+# made by Akshay Sharma
+
+## Live website : https://web-it-beige.vercel.app/
 
 ## API and Context Keys are needed:
 
