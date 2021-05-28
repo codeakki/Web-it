@@ -2,6 +2,7 @@
 
 
 # made by Akshay Sharma
+# tutorial followed: clever programming
 
 ## Live website : https://web-it-beige.vercel.app/
 
